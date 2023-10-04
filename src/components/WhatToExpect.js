@@ -28,7 +28,7 @@ const WhatToExpect = () => {
 
       <div className="flex gap-10 flex-col xl:flex-row lg:pb-40 ">
         <TextBlock
-          src="/./assets/one.png"
+          src="/assets/one.png"
           width={500}
           height={500}
           title="Meet & Greet"
