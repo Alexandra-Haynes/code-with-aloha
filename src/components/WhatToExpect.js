@@ -39,7 +39,7 @@ const WhatToExpect = () => {
         />
 
         <TextBlock
-          src="/./assets/two.png"
+          src="/assets/two.png"
           width={500}
           height={500}
           title="Debrief on projects and announcements"
@@ -52,7 +52,7 @@ const WhatToExpect = () => {
         />
 
         <TextBlock
-          src="/./assets/three.png"
+          src="/assets/three.png"
           width={500}
           height={500}
           title="Participate in breakout rooms"
